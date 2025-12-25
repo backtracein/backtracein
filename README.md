@@ -4,9 +4,9 @@
 <h2 align=center > Information Technology & Services </h2>
 <br>
 <p align="center">
-  <a href="mailto:backtrace.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/company/yourcompany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/919483962369"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:backtrace.in@gmail.com"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/gmail.png" /></a>
+  <a href="https://www.linkedin.com/company/yourcompany"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/linkedin.png" /></a>
+  <a href="https://wa.me/919483962369"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/whatsapp.png" /></a>
 </p>
 
 ## 🧠 About Us
