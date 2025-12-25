@@ -61,11 +61,24 @@ We provide comprehensive OS support for:
 Reliable networking solutions including setup, optimization, and troubleshooting for home and enterprise environments.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MikroTik-293239?logo=mikrotik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TP--Link-4ACBD6?logo=tp-link&logoColor=white"/>
-  <img src="https://img.shields.io/badge/D--Link-0099CC?logo=d-link&logoColor=white"/>
+  <a href="https://www.cisco.com/" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/02_Networking/01_Cisco.jpeg" style="width:60px;height:60px"/>
+  </a>
+  <a href="https://www.fortinet.com/" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/02_Networking/02_Fortinet.jpeg" style="width:60px;height:60px"/>
+  </a>
+  <a href="https://www.paloaltonetworks.com/" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/02_Networking/03_Palo-alto.jpeg" style="width:60px;height:60px"/>
+  </a>
+  <a href="https://www.tp-link.com/in/" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/02_Networking/04_TP-Link.jpeg" style="width:60px;height:60px"/>
+  </a>
+  <a href="https://www.dlink.com/in/en" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/02_Networking/05_D-Link .jpeg" style="width:60px;height:60px"/>
+  </a>
+    <a href="https://www.linksys.com/" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/02_Networking/06_Linksys .jpeg" style="width:60px;height:60px"/>
+  </a>
 </p>
 
 ---
