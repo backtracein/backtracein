@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/backtracein/backtracein/blob/main/Assets/Banner_BACKTRACE.PNG" alt="BACKTRACE" width="100%">
 </p>
-<h2 align=center > Information Technology & Services </h2>
+<h2 align=center > 🌐 Information Technology & Services👨🏻‍💻/h2>
 <br>
 <p align="center">
   <a href="mailto:backtrace.in@gmail.com"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/gmail.png" style="width:60px;height:60px"/></a>
