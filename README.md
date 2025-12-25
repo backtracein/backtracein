@@ -43,7 +43,7 @@ We provide comprehensive OS support for:
   <a href="https://www.apple.com/in/os/macos/" >
     <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/02_Apple.jpeg" style="width:60px;height:60px"/>
   </a>
-  <a href="https://www.linuxfoundation.org/" >
+  <a href="https://www.linux.org/pages/download" >
     <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/03_Linux.jpeg" style="width:60px;height:60px"/>
   </a>
   <a href="https://www.apple.com/in/os/ios/" >
