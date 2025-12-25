@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:backtrace.in@gmail.com" style="color:#ffffff">
+  <a href="mailto:backtrace.in@gmail.com" style="text-decoration:none; color:inherit;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/company/yourcompany" style="color:#ffffff">
+  <a href="https://www.linkedin.com/company/yourcompany" style="text-decoration:none; color:inherit;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/919483962369" style="color:#ffffff">
+  <a href="https://wa.me/919483962369" style="text-decoration:none; color:inherit;">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
