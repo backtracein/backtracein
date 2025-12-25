@@ -107,8 +107,8 @@ Build, deploy, and manage smart IoT solutions that connect devices seamlessly an
 Upskill, earn professional certifications, and accelerate career growth with structured learning paths.
 
 <p>
-  <a href="https://www.apple.com/in/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/01_Microsoft.jpeg" style="width:60px;height:60px"/></a>
-  <a href="https://www.microsoft.com/en-in/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/02_Apple.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.microsoft.com/en-in/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/01_Microsoft.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.apple.com/in/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/02_Apple.jpeg" style="width:60px;height:60px"/></a>
   <a href="https://www.linux.org/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/03_Linux.jpeg" style="width:60px;height:60px"/></a>
   <a href="https://www.cisco.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/04_Cisco.jpeg" style="width:60px;height:60px"/></a>
   <a href="https://www.fortinet.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/05_Fortinet.jpeg" style="width:60px;height:60px"/></a>
