@@ -96,7 +96,10 @@ Software support, system troubleshooting, and remote diagnostics for every kind 
 Build, deploy, and manage smart IoT solutions that connect devices seamlessly and enhance automation.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+  <a href="https://www.raspberrypi.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/05_IoT/01_Raspberry Pi.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.arduino.cc/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/05_IoT/02_Arduino.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.beagleboard.org/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/05_IoT/03_BeagleBoard.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.espressif.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/05_IoT/0Espressif.jpeg" style="width:60px;height:60px"/></a>
 </p>
 
 ## 📚 Upskilling & Certifications
@@ -104,7 +107,30 @@ Build, deploy, and manage smart IoT solutions that connect devices seamlessly an
 Upskill, earn professional certifications, and accelerate career growth with structured learning paths.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux,cisco,aws,gcp,azure" />
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/01_Microsoft.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/02_Apple.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/03_Linux.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/04_Cisco.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/05_Fortinet.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/06_Palo-alto.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/07_Hack The Box .jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/08_TryHackMe.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/09_Offsec.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/10_Amazon Web Services (AWS).jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/11_Google Cloud.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/12_NinjaOne.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/13_PortSwigger.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/14_Postman.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/15_Bugcrowd.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/16_Intigriti.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/17_HackerOne.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/18_PentesterLab.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/19_LetsDefend.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/20_CompTIA.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/21_Jamf.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/22_VMWare.jpeg" style="width:60px;height:60px"/></a>
+  <a href=""><img src="https://github.com/backtracein/backtracein/blob/main/Assets/06_Upskilling/23_JumpCloud.jpeg" style="width:60px;height:60px"/></a>
+
 </p>
 
 **Focus Areas**
