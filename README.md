@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/backtracein/backtracein/blob/main/Assets/Banner_BACKTRACE.PNG" alt="BACKTRACE" width="100%">
 </p>
-
+<h2 align=center > Information Technology & Services </h2>
+<br>
 <p align="center">
   <a href="mailto:backtrace.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/company/yourcompany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -16,8 +17,6 @@ We help with operating systems, networks, IoT devices, troubleshooting, and data
 We work **remotely** to resolve problems quickly and efficiently, while keeping systems secure and running smoothly — **one device at a time**.
 
 From fixing system issues to setting up networks and IoT solutions, we provide trusted remote support, enterprise assistance, and skill development with a human-first approach.
-
----
 
 ## 💻 OS Support Services
 
@@ -34,8 +33,6 @@ We provide comprehensive OS support for:
   <a href="https://www.android.com/" >
     <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/05_Android.jpeg" style="width:60px;height:60px"/></a>
 </p>
-
----
 
 ## 🌐 Networking
 
@@ -56,8 +53,6 @@ Reliable networking solutions including setup, optimization, and troubleshooting
     <img src="https://github.com/backtracein/backtracein/blob/main/Assets/02_Networking/06_Linksys .jpeg" style="width:60px;height:60px"/></a>
 </p>
 
----
-
 ## 💾 Backup & Disk Imaging
 
 Reliable backup and disk imaging solutions to secure data and ensure fast system recovery.
@@ -66,8 +61,6 @@ Reliable backup and disk imaging solutions to secure data and ensure fast system
   <img src="https://img.shields.io/badge/Acronis-0078D4?logo=acronis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clonezilla-FE7A16?logo=linux&logoColor=white"/>
 </p>
-
----
 
 ## 🧪 Diagnostics
 
@@ -82,8 +75,6 @@ Software support, system troubleshooting, and remote diagnostics for every kind 
 - Intel · AMD  
 - iOS · Android
 
----
-
 ## 🌐 IoT
 
 Build, deploy, and manage smart IoT solutions that connect devices seamlessly and enhance automation.
@@ -91,8 +82,6 @@ Build, deploy, and manage smart IoT solutions that connect devices seamlessly an
 <p>
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
 </p>
-
----
 
 ## 📚 Upskilling & Certifications
 
@@ -109,13 +98,9 @@ Upskill, earn professional certifications, and accelerate career growth with str
 - Security • Compliance
 - CompTIA • VMware
 
----
-
 ## 🧩 Philosophy
 
 > *Empower users, secure systems, and build smarter digital environments — one device at a time.*
-
----
 
 <p align="center">
   <strong>BACKTRACE</strong><br/>
