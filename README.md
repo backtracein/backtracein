@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-org/your-repo/main/assets/backtrace-banner.png" alt="BACKTRACE" width="100%">
+  <img src="https://github.com/backtracein/BACKTRACE/blob/main/Banner_BACKTRACE.PNG" alt="BACKTRACE" width="100%">
 </p>
 
 <h1 align="center">BACKTRACE</h1>
