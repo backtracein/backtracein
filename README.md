@@ -38,16 +38,19 @@ We provide comprehensive OS support for:
 
 <p>
   <a href="https://www.microsoft.com/en-in/windows" >
-    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/01_Microsoft.jpeg" style="width:70px;height:70px" />
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/01_Microsoft.jpeg" style="width:60px;height:60px" />
   </a>
   <a href="https://www.apple.com/in/os/macos/" >
-    <img src="https://skillicons.dev/icons?i=apple" />
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/02_Apple.jpeg" style="width:60px;height:60px"/>
   </a>
   <a href="https://www.linuxfoundation.org/" >
-    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/03_Linux.jpeg" style="width:60px;height:60px"/>
+  </a>
+  <a href="https://www.apple.com/in/os/ios/" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/04_ios.jpeg" style="width:60px;height:60px"/>
   </a>
   <a href="https://www.android.com/" >
-    <img src="" />
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/05_Android.jpeg" style="width:60px;height:60px"/>
   </a>
 </p>
 
