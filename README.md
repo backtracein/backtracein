@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:backtrace.in@gmail.com" style="text-decoration:none; color:inherit;">
+  <a href="mailto:backtrace.in@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/company/yourcompany" style="text-decoration:none; color:inherit;">
