@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:backtrace.in@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/company/yourcompany">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
@@ -20,8 +20,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## 🧠 About Us
 
