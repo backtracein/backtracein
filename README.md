@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:backtrace.in@email.com">
+  <a href="mailto:backtrace.in@gmail.com" style="color:#ffffff">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/company/yourcompany">
+  <a href="https://www.linkedin.com/company/yourcompany" style="color:#ffffff">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/91">
+  <a href="https://wa.me/919483962369" style="color:#ffffff">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
@@ -37,7 +37,7 @@ From fixing system issues to setting up networks and IoT solutions, we provide t
 We provide comprehensive OS support for:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,apple,linux,ios,android" />
+  <img src="https://skillicons.dev/icons?i=windows" />
 </p>
 
 ---
