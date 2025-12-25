@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  <a href="mailto:backtrace.in@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
   <a href="https://www.linkedin.com/company/yourcompany">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/91XXXXXXXXXX">
+  <a href="https://wa.me/91">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
