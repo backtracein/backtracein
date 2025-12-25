@@ -2,13 +2,6 @@
   <img src="https://github.com/backtracein/backtracein/blob/main/Assets/Banner_BACKTRACE.PNG" alt="BACKTRACE" width="100%">
 </p>
 
-<h1 align="center">BACKTRACE</h1>
-
-<p align="center">
-  <strong>just a tech.</strong><br/>
-  <em>a nobody behind a screen, fixing broken systems I’ll never belong to.</em>
-</p>
-
 <p align="center">
   <a href="mailto:backtrace.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/company/yourcompany"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
