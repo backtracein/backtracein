@@ -5,7 +5,7 @@
 <br>
 <p align="center">
   <a href="mailto:backtrace.in@gmail.com"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/gmail.png" style="width:60px;height:60px"/></a>
-  <a href="https://www.linkedin.com/company/yourcompany"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/linkedin.png" style="width:60px;height:60px"/></a>
+  <!-- <a href="https://www.linkedin.com/company/yourcompany" ><img src="https://github.com/backtracein/backtracein/blob/main/Assets/linkedin.png" style="width:60px;height:60px;"/></a> -->
   <a href="https://wa.me/919483962369"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/whatsapp.png" style="width:60px;height:60px;"/></a>
 </p>
 
@@ -58,8 +58,12 @@ Reliable networking solutions including setup, optimization, and troubleshooting
 Reliable backup and disk imaging solutions to secure data and ensure fast system recovery.
 
 <p>
-  <img src="https://img.shields.io/badge/Acronis-0078D4?logo=acronis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clonezilla-FE7A16?logo=linux&logoColor=white"/>
+  <a href="https://www.acronis.com/" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/03_Backup and disk imaging/01_Acronis.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.macrium.com/" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/03_Backup and disk imaging/02_Macrium.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://clonezilla.org/" >
+  <img src="https://github.com/backtracein/backtracein/blob/main/Assets/03_Backup and disk imaging/03_Clonezilla.png" style="width:60px;height:60px"/></a>
 </p>
 
 ## 🧪 Diagnostics
@@ -67,7 +71,19 @@ Reliable backup and disk imaging solutions to secure data and ensure fast system
 Software support, system troubleshooting, and remote diagnostics for every kind of laptop and device.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux" />
+  <a href="https://www.apple.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/01_Apple.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.microsoft.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/02_Microsoft .jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.dell.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/03_Dell.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.lenovo.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/04_Lenovo .jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.hp.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/05_HP.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.asus.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/06_ASUS .jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.acer.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/07_Acer .jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.msi.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/08_MSI .jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.gigabyte.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/09_GIGABYTE .jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.amd.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/10_AMD.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.intel.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/11_Intel.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.apple.com/ios"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/12_ios.jpeg" style="width:60px;height:60px"/></a>
+  <a href="https://www.android.com/"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/04_Diagnostics/13_Android.jpeg" style="width:60px;height:60px"/></a>
 </p>
 
 **Hardware & Platforms**
