@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:backtrace.in@gmail.com" style="text-decoration:none;">
+  <a href="mailto:backtrace.in@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/company/yourcompany" style="text-decoration:none; color:inherit;">
+  <a href="https://www.linkedin.com/company/yourcompany" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/919483962369" style="text-decoration:none; color:inherit;">
+  <a href="https://wa.me/919483962369">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
@@ -37,7 +37,18 @@ From fixing system issues to setting up networks and IoT solutions, we provide t
 We provide comprehensive OS support for:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows" />
+  <a href="https://www.microsoft.com/en-in/windows" >
+    <img src="https://github.com/backtracein/backtracein/blob/main/Assets/01_OS Support Services/01_Microsoft.jpeg" style="width:70px;height:70px" />
+  </a>
+  <a href="https://www.apple.com/in/os/macos/" >
+    <img src="https://skillicons.dev/icons?i=apple" />
+  </a>
+  <a href="https://www.linuxfoundation.org/" >
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://www.android.com/" >
+    <img src="" />
+  </a>
 </p>
 
 ---
