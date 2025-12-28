@@ -5,7 +5,7 @@
 <br>
 <p align="center">
   <a href="mailto:backtrace.in@gmail.com"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/gmail.png" style="width:60px;height:60px"/></a>
-   <a href="https://www.linkedin.com/in/backtrace-in-3373723a0?trk=contact-info" ><img src="https://github.com/backtracein/backtracein/blob/main/Assets/linkedin.png" style="width:60px;height:60px;"/></a>
+  <!-- <a href="https://www.linkedin.com/in/backtrace-in-3373723a0?trk=contact-info" ><img src="https://github.com/backtracein/backtracein/blob/main/Assets/linkedin.png" style="width:60px;height:60px;"/></a> -->
   <a href="https://wa.me/919483962369"><img src="https://github.com/backtracein/backtracein/blob/main/Assets/whatsapp.png" style="width:60px;height:60px;"/></a>
 </p>
 
